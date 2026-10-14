@@ -8,10 +8,10 @@ function Home() {
   const [isVisible, setIsVisible] = useState(true)
 
   const student = {
-    name: 'Pramath Desai',
-    title: 'Student ID: 24CS017',
-    intro: 'I am Pramath, a Computer Science and Technology student at Charusat University. I am passionate about web development and building innovative solutions.',
-    contact: '24cs017@charusat.edu.in',
+    name: 'Jay Aghera',
+    title: 'Student ID: 24CS001',
+    intro: 'I am Jay, a Computer Science and Technology student at Charusat University. I am passionate about web development and building innovative solutions.',
+    contact: '24cs001@charusat.edu.in',
     skills: ['HTML', 'CSS', 'JavaScript', 'Java', 'Python', 'React', 'Node.js'],
   }
 
